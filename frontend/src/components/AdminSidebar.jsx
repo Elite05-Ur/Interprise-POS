@@ -6,7 +6,7 @@ const AdminSidebar = ({ activeTab, setActiveTab }) => {
   const menuItems = [
     { name: 'Dashboard', icon: '🏠', id: 'dashboard' },
     { name: 'Products', icon: '📦', id: 'products' },
-    { name: 'Staff Management', icon: '👥', id: 'staff' },
+    { name: 'Staff Management', icon: '👥', id: 'staff' }, 
     { name: 'Sales History', icon: '📊', id: 'sales' },
     { name: 'Closing Reports', icon: '📑', id: 'closing' },
     { name: 'Backups', icon: '💾', id: 'backup' },
