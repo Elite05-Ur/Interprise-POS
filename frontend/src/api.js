@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:3000/api', // Apne backend ka port check kar lena (misal ke tor par 5000)
+  baseURL: 'https://interprise-pos.onrender.com/api', // Apne backend ka port check kar lena (misal ke tor par 5000)
 });
 
 // Request mein token automatically bhejne ke liye interceptor
