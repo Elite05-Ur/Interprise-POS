@@ -1,0 +1,5 @@
+_id,name,category,purchasePrice,salePrice,stockQuantity,image,isActive,createdAt,updatedAt,__v
+"6ad57c13d930bdf52503faed","lays","*",15,20,8,"",true,"2026-10-19T02:10:27.696Z","2026-10-19T02:14:34.204Z",""
+"6ad57c34d930bdf52503faee","coca cola 1 liter","drink",90,120,6,"",true,"2026-10-19T02:11:00.242Z","2026-10-19T02:11:00.242Z",""
+"6ad57c63d930bdf52503faef","bisconni dino","*",3,5,8,"",true,"2026-10-19T02:11:47.196Z","2026-10-19T02:14:02.561Z",""
+"6ad57c8bd930bdf52503faf0","nana papa small dipers","dipers",900,1200,3,"",true,"2026-10-19T02:12:27.939Z","2026-10-19T02:14:33.965Z",""
